@@ -690,3 +690,12 @@ footer .text{
   color: #F4F4FD;
   background-color: #31D0AA;  
 }
+
+@media (min-width: 320px;) {
+  
+}
+
+@media (max-width: 1158px;) and (min-width: 768px;) {
+  
+}
+
